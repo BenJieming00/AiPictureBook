@@ -1,0 +1,18 @@
+numpy>=1.26.0
+packaging>=24.0
+pillow>=11.0.0
+pip @ file:///opt/homebrew/Cellar/python%403.12/3.12.8/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ensurepip/_bundled/pip-24.3.1-py3-none-any.whl
+pycairo>=1.20.0
+pygobject>=3.40.0
+six>=1.16.0
+uvicorn>=0.25.0
+fastapi>=0.100.0
+pydantic-settings>=2.0.0
+requests>=2.30.0
+google-genai
+openai
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.8/libexec/wheel-0.45.1-py3-none-any.whl
+sqlalchemy>=2.0.0
+alembic>=1.10.0
+python-dotenv>=1.0.0
+pydantic[email]>=2.0.0

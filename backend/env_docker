@@ -1,0 +1,20 @@
+# 硅流流动语音 -- 语音朗读
+SILICONFLOW_API_KEY=
+SILICONFLOW_URL=https://api.siliconflow.cn/v1
+SILICONFLOW_MODEL=FunAudioLLM/CosyVoice2-0.5B
+SILICONFLOW_VOICE=fishaudio/fish-speech-1.5:claire
+
+# 谷歌Gemini -- 故事生成
+GEMINI_API_KEY=
+GEMINI_MODEL=gemini-2.0-flash
+
+# 深度图灵-- 文本转图片
+DEEPINFRA_API_URL=https://api.deepinfra.com/v1/openai/images/generations
+DEEPINFRA_API_KEY=
+UPLOAD_DIR=static/images
+SPEECH_DIR=static/speech
+
+# 服务器设置
+HOST=0.0.0.0
+PORT=8001
+
